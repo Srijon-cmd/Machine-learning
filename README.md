@@ -5,4 +5,4 @@ Author-Srijon Das
 <br>
 AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH
 <br>
-Depertment-Computer Science and Engineer
+Depertment-Computer Science and Engineering
